@@ -1,0 +1,8 @@
+numpy<2.4
+pandas
+scipy
+rasterio
+geopandas
+shapely
+pysheds
+matplotlib
