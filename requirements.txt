@@ -6,3 +6,4 @@ geopandas
 shapely
 pysheds
 matplotlib
+contextily

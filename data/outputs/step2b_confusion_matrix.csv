@@ -1,0 +1,3 @@
+,reference: land,reference: water
+map: non-water,55,2
+map: water,7,50
